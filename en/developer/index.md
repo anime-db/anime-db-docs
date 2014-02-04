@@ -1,2 +1,2 @@
-Developer manual
-================
+Developer guide
+===============
