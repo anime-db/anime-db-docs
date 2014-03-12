@@ -1,2 +1,1 @@
-User guide
-==========
+# User guide

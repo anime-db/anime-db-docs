@@ -1,2 +1,1 @@
-Developer guide
-===============
+# Developer guide
