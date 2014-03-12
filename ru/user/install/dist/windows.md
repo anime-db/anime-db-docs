@@ -13,14 +13,14 @@
 
 Заходим на офециальный сайт приложения по адресу http://anime-db.ru/.
 
-[Главная страница сайта Anime DB](/images/ru/install/home_page.jpg)
+![Главная страница сайта Anime DB](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/home_page.jpg)
 
 Шелкаете по кнопке **Скачать** для того что бы начать загрузку самораспаковывающегося архива c последней версией
 приложения.
 
 Если вы используете браузер *Google Chrome*, то он можен предупредить об опастности загружаемого файла.
 
-[Предупреждение от Google Chrome](/images/ru/install/warning_download.jpg)
+![Предупреждение от Google Chrome](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/warning_download.jpg)
 
 Проигнорируйте это предуприждение и загрузите архив с приложением на компьютер.
 
@@ -35,11 +35,11 @@
 После того как Вы загрузили самораспаковывающийся архив на свой компьютер, запустите его.
 
 > Брандмауэр Windows может выдать сообщение о том что приложение не проверено, проигнорируйте его нажав кнопку
-**Запустить**. [Предупреждение Брандмауэр Windows](/images/ru/install/run_archive.jpg)
+**Запустить**. ![Предупреждение Брандмауэр Windows](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/run_archive.jpg)
 
 Запустив приложение Вы увидите окно для ввода пути к дирректории в которую будет распаковано приложение.
 
-[Главная страница сайта Anime DB](/images/en/install/archive_choose_path.jpg)
+![Главная страница сайта Anime DB](https://raw.github.com/anime-db/anime-db-docs/master/images/en/install/archive_choose_path.jpg)
 
 По умолчанию поле будет заполнено путем расположения архива. Вы можете указать путь вручную или воспользоваться
 диалогом выбора дирректории щелкнув по кнопке с символом троиточия **...**.
@@ -74,7 +74,7 @@
 Запустите скрипт `AnimeDB_Run.vbs` который запустит приложение. После запуска вы увидете сообщение которое обозначает
 что запуск произведен успешно.
 
-[Запус приложения](/images/en/install/run_app.jpg)
+![Запус приложения](https://raw.github.com/anime-db/anime-db-docs/master/images/en/install/run_app.jpg)
 
 После этого вы можете открыть свой любимый браузер и перейти по адресу <http://localhost:56780/>. По этому адресу
 приложение доступно для пользования.
@@ -89,4 +89,4 @@ sPort = "80"
 После того как вы закончили работу с приложением вы можете останавить его выполнив скрипт `AnimeDB_Stop.vbs`. После
 успешной остановки вы увидите сообщение:
 
-[Остановка приложения](/images/en/install/stop_app.jpg)
+![Остановка приложения](https://raw.github.com/anime-db/anime-db-docs/master/images/en/install/stop_app.jpg)
