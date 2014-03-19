@@ -21,21 +21,22 @@
 
 Загрузив архив распакуйте его и зайдите в созданную директорию. Создайте в директории текстовый файл с именем
 `php.ini` и запишите в него следующие параметры запуска интерпретатора:
+```ini
+display_errors = Off
+date.timezone = Europe/Moscow
+upload_tmp_dir = "tmp"
+extension_dir = "ext"
 
-    display_errors = Off
-    date.timezone = Europe/Moscow
-    upload_tmp_dir = "tmp"
-    extension_dir = "ext"
-
-    extension=php_com_dotnet.dll
-    extension=php_curl.dll
-    extension=php_gd2.dll
-    extension=php_intl.dll
-    extension=php_mbstring.dll
-    extension=php_openssl.dll
-    extension=php_pdo_sqlite.dll
-    extension=php_tidy.dll
-    extension=php_fileinfo.dll
+extension=php_com_dotnet.dll
+extension=php_curl.dll
+extension=php_gd2.dll
+extension=php_intl.dll
+extension=php_mbstring.dll
+extension=php_openssl.dll
+extension=php_pdo_sqlite.dll
+extension=php_tidy.dll
+extension=php_fileinfo.dll
+```
 
 Эти параметры определяют список расширений которые будут подключены и основные параметры. Параметр `date.timezone`
 определяет временную зону в которой вы находитесь. Если ваше временная зона отличается от временной зоны города Москва
@@ -71,13 +72,14 @@
 Для завершения установки необходимо сообщить приложению где находится PHP интерпретатор для этого необходимо изменить
 параметр `sPhp` в файле `AnimeDB_Run.vbs`, расположеном в корневой директории приложения. Если вы устанавили PHP
 например в дирректорию `C:\Program Files\PHP` то вам необходимо указать:
-
-    sPhp = "C:\Program Files\PHP\php.exe"
+```VBScript
+sPhp = "C:\Program Files\PHP\php.exe"
+```
 
 > Рекомендуется устанавливать PHP интерпретатор в поддиректорию `bin\php` директории с приложением. Это позволит Вам
 свободно переносить папку с приложением не другие компьютеры и не заботится об установки PHP интерпретатора. В этом
 случае Вам необходимо указать следующий путь:
-> ```
+> ```VBScript
 > sPhp = sPath & "/bin/php/php.exe"
 > ```
 
@@ -102,8 +104,7 @@
 > Если Ваш компьютер доступен в локальной сети, то Вы можете подключится к приложению с любого компьютера в сети
 используя IP адрес вашего компьютера в локальной сети и порта 56780. Пример: <http://192.168.0.1:56780/>. Так же Вы можете
 изменить порт подключения отредактировав параметр `sPort` в файле `AnimeDB_Run.vbs`. Пример установки порта 80:
-> 
-> ```
+> ```VBScript
 > sPort = "80"
 > ```
 
