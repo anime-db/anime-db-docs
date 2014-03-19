@@ -7,17 +7,17 @@
 
 ## Шаг 1: Установка PHP
 
-Приложение написано на языке программирования PHP и для работы ему необходим PHP интерпретатор. В случае OS Windows
+Приложение написано на языке программирования [PHP](http://php.net/) и для работы ему необходим PHP интерпретатор. В случае OS Windows
 есть скомпилированная версия не требующая установки в системе и потому приложение на Windows легко устанавливается.
 
-Зайдите на страницу [загрузки PHP для OS Windows](http://windows.php.net/download/). http://windows.php.net/download/Если вы пользуетесь OS Windows XP,
+Зайдите на страницу загрузки [PHP для OS Windows](http://windows.php.net/download/). Если вы пользуетесь OS Windows XP,
 то Вы можете пользоваться только PHP версии 5.4. Более ранняя версия недопустима для работы приложения, а в более новой
 версии разработчики PHP отказались от поддержки OS Windows XP. Таким образом Вам необходимо выбрать версию PHP
 интерпретатора и скачать ее:
 
-- **PHP 5.5** VC11 x86 Non Thread Safe *(для Vista и старше) (x86)*
-- **PHP 5.5** VC11 x64 Non Thread Safe *(для Vista и старше) (x64)*
-- **PHP 5.4** VC9 x86 Non Thread Safe *(для XP и старше) (x86)*
+- [**PHP 5.5** VC11 x86 Non Thread Safe](http://windows.php.net/download/#php-5.5-nts-VC11-x86) *(для Vista и старше) [x86](http://ru.wikipedia.org/wiki/X86)*
+- [**PHP 5.5** VC11 x64 Non Thread Safe](http://windows.php.net/download/#php-5.5-nts-VC11-x64) *(для Vista и старше) [x64](http://ru.wikipedia.org/wiki/X86-64)*
+- [**PHP 5.4** VC9 x86 Non Thread Safe](http://windows.php.net/download/#php-5.4-nts-VC9-x86) *(для XP и старше) [x86](http://ru.wikipedia.org/wiki/X86)*
 
 Загрузив архив распакуйте его и зайдите в созданную директорию. Создайте в директории текстовый файл с именем
 `php.ini` и запишите в него следующие параметры запуска интерпретатора:
@@ -28,15 +28,15 @@ date.timezone = Europe/Moscow
 upload_tmp_dir = "tmp"
 extension_dir = "ext"
 
-extension=php_com_dotnet.dll
-extension=php_curl.dll
-extension=php_gd2.dll
-extension=php_intl.dll
-extension=php_mbstring.dll
-extension=php_openssl.dll
-extension=php_pdo_sqlite.dll
-extension=php_tidy.dll
-extension=php_fileinfo.dll
+extension = php_com_dotnet.dll
+extension = php_curl.dll
+extension = php_gd2.dll
+extension = php_intl.dll
+extension = php_mbstring.dll
+extension = php_openssl.dll
+extension = php_pdo_sqlite.dll
+extension = php_tidy.dll
+extension = php_fileinfo.dll
 ```
 
 Эти параметры определяют список расширений которые будут подключены и основные параметры. Параметр `date.timezone`
@@ -54,7 +54,7 @@ extension=php_fileinfo.dll
 своем компьютере, в том числе на USB-носитель.
 
 > Приложение запущенное с USB-носитель может тормозить из-за недостаточной скорости обмена данными. Рекомендуется
-использовать USB-носител с поддержкой USB 3.0 и скоростью обмена данными от 100 Мб/с.
+использовать USB-носител с поддержкой [USB 3.0](http://ru.wikipedia.org/wiki/USB#USB_3.0) и скоростью обмена данными от 100 Мб/с.
 
 К сожалению указать можно не любой директорию. Приложение некорректно работает с путями в составе которых
 присутствуют символы не входящие в таблицу [ASCII](http://www.asciitable.com/ "Таблица ASCII символов"). То есть
@@ -104,9 +104,11 @@ sPhp = "C:\Program Files\PHP\php.exe"
 После этого Вы можете открыть свой любимый браузер и перейти по адресу <http://localhost:56780/>. По этому адресу
 приложение доступно для пользования.
 
-> Если Ваш компьютер доступен в локальной сети, то Вы можете подключится к приложению с любого компьютера в сети
-используя IP адрес вашего компьютера в локальной сети и порта 56780. Пример: <http://192.168.0.1:56780/>. Так же Вы можете
-изменить порт подключения отредактировав параметр `sPort` в файле `AnimeDB_Run.vbs`. Пример установки порта 80:
+<a name="change-port"></a>
+
+> Если Ваш компьютер доступен в [локальной сети](http://ru.wikipedia.org/wiki/Локальная_вычислительная_сеть), то Вы можете подключится к приложению с любого компьютера в сети
+используя [IP адрес](http://ru.wikipedia.org/wiki/IP-адрес) вашего компьютера в локальной сети и [порта](http://ru.wikipedia.org/wiki/Порт_\(компьютерные_сети\)) [56780](/ru/user/port.md). Пример: <http://192.168.0.1:56780/>. Так же Вы можете
+изменить порт подключения отредактировав параметр `sPort` в файле `AnimeDB_Run.vbs`. Пример установки порта *[80](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_ref-11)*:
 > 
 > ```vbscript
 > sPort = "80"
