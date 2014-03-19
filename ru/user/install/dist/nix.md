@@ -37,7 +37,7 @@ sudo apt-get install php5-cli php5-curl php5-gd php5-sqlite php5-tidy
 На втором этапе необходимо скачать архив с приложением со всеми предустановленными зависимостями.
 Если Вы уже скачали архив, Вы можете перейти к [шагу 3](#stap-3).
 
-Зайдите на официальный сайт приложения по адресу http://anime-db.ru/.
+Зайдите на официальный сайт приложения по адресу <http://anime-db.ru/>.
 
 ![Главная страница сайта Anime DB](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/home_page_nix.jpg)
 
