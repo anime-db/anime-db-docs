@@ -113,3 +113,11 @@ sudo apt-get install php5-cli php5-curl php5-gd php5-sqlite php5-tidy
 > ```bash
 > sudo update-rc.d AnimeDB defaults
 > ```
+
+<a name="stap-4"></a>
+
+## Шаг 4: Завершение установки
+
+В приложении есть предустановленные демонстрационные записи. Рекомендуем ознакомится с ними для того что бы иметь
+общее представление о приложении. После этого вы можете удалить все демонстрационные [записи](/ru/user/item/delete.md)
+и [хранилище](/ru/user/storage/delete.md).
