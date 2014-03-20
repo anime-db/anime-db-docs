@@ -107,7 +107,7 @@ sPhp = "C:\Program Files\PHP\php.exe"
 <a name="change-port"></a>
 
 > Если Ваш компьютер доступен в [локальной сети](http://ru.wikipedia.org/wiki/Локальная_вычислительная_сеть), то Вы можете подключится к приложению с любого компьютера в сети
-используя [IP адрес](http://ru.wikipedia.org/wiki/IP-адрес) вашего компьютера в локальной сети и [порта](http://ru.wikipedia.org/wiki/Порт_\(компьютерные_сети\)) [56780](/ru/user/port.md). Пример: <http://192.168.0.1:56780/>. Так же Вы можете
+используя [IP адрес](http://ru.wikipedia.org/wiki/IP-адрес) вашего компьютера в локальной сети и [порта](http://ru.wikipedia.org/wiki/Порт_%28компьютерные_сети%29) [56780](/ru/user/port.md). Пример: <http://192.168.0.1:56780/>. Так же Вы можете
 изменить порт подключения отредактировав параметр `sPort` в файле `AnimeDB_Run.vbs`. Пример установки порта *[80](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_ref-11)*:
 > 
 > ```vbscript
