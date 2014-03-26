@@ -6,6 +6,7 @@
 
 ![Список хранилищ](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/storage/menu.jpg)
 
+<a name="type"></a>
 Хранилища разделяются на разные типы по своим свойствам:
 
 - Папка на компьютере (локальная/сетевая)
