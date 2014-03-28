@@ -32,5 +32,5 @@
 - [Поиск](/ru/user/general/search.md "Поиск в базе данных")
 - [Уведомления](/ru/user/general/notice.md)
     - [Список уведомлений](/ru/user/general/notice_list.md)
-- Плагины
+- [Плагины](/ru/user/general/plugins.md "Плагины и виджеты")
 - [Обновление](/ru/user/general/update.md "Обновление приложения")
