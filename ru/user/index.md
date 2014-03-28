@@ -30,7 +30,7 @@
 ## Общие
 
 - [Поиск](/ru/user/general/search.md "Поиск в базе данных")
-- Уведомления
-    - Список уведомлений
+- [Уведомления](/ru/user/general/notice.md)
+    - [Список уведомлений](/ru/user/general/notice_list.md)
 - Плагины
 - [Обновление](/ru/user/general/update.md "Обновление приложения")
