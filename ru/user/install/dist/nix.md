@@ -34,9 +34,7 @@ sudo apt-get install php5-cli php5-curl php5-gd php5-sqlite php5-tidy
 ```
 
 После установки приложения необходимо установить параметры для PHP интерпретатора отредактировав файл
-`/etc/php/php.ini`. Укажите свой
-[часовой пояс](http://www.php.net/manual/ru/datetime.configuration.php#ini.date.timezone) используя [список допустимых
-значений](http://www.php.net/manual/ru/timezones.php). Пример файла `php.ini`:
+`/etc/php/php.ini` и запишите в него следующие параметры:
 
 ```ini
 display_errors = Off
@@ -54,6 +52,11 @@ extension=php_pdo_sqlite.dll
 extension=php_tidy.dll
 extension=php_fileinfo.dll
 ```
+
+Эти параметры определяют список расширений которые будут подключены и основные параметры. Параметр `date.timezone`
+определяет временную зону в которой вы находитесь. Если ваше временная зона отличается от временной зоны города Москва
+в Россие, то вы можете указать свою временную зону.
+[Список поддерживаемых временных зон](http://www.php.net/manual/ru/timezones.php).
 
 <a name="stap-2"></a>
 
