@@ -21,7 +21,9 @@
 - [**PHP 5.4** VC9 x86 Non Thread Safe](http://windows.php.net/download/#php-5.4-nts-VC9-x86) *(для XP и старше) [x86](http://ru.wikipedia.org/wiki/X86)*
 
 Загрузив архив распакуйте его и зайдите в созданную директорию. Создайте в директории текстовый файл с именем
-`php.ini` и запишите в него следующие параметры запуска интерпретатора:
+`php.ini` и запишите в него параметры PHP интерпретатора. Укажите свой
+[часовой пояс](http://www.php.net/manual/ru/datetime.configuration.php#ini.date.timezone) используя [список допустимых
+значений](http://www.php.net/manual/ru/timezones.php). Пример файла `php.ini`:
 
 ```ini
 display_errors = Off
