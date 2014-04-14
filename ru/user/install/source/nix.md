@@ -80,6 +80,10 @@ git clone git://github.com/anime-db/anime-db.git && cd anime-db
 > unzip master.zip && mv anime-db-master anime-db && cd anime-db
 > ```
 
+<a name="stap-3"></a>
+
+## Шаг 3: Установка компонентов
+
 Скачайте менеджер зависимостей [Composer](https://getcomposer.org/):
 
 ```bash
@@ -103,9 +107,9 @@ curl -s https://getcomposer.org/installer | php
 php composer.phar install --prefer-dist --no-dev
 ```
 
-<a name="stap-3"></a>
+<a name="stap-4"></a>
 
-## Шаг 3: Запуск приложения
+## Шаг 4: Запуск приложения
 
 Для того что бы запустить приложение Вам необходимо в терминале перейти в директорию в которую вы
 установили приложение. В корне директории находится скрипт `AnimeDB` отвечающий за управление приложением.
@@ -168,9 +172,9 @@ php composer.phar install --prefer-dist --no-dev
 > sudo update-rc.d AnimeDB defaults
 > ```
 
-<a name="stap-4"></a>
+<a name="stap-5"></a>
 
-## Шаг 4: Завершение установки
+## Шаг 5: Завершение установки
 
 В приложении есть предустановленные демонстрационные записи. Рекомендуем ознакомится с ними для того что бы иметь
 общее представление о приложении. После этого вы можете удалить все демонстрационные [записи](/ru/user/item/delete.md)
