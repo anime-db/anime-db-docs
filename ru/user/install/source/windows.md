@@ -96,7 +96,7 @@ php composer.phar install --prefer-dist --no-dev
 Скачайте последнюю версию монитора с [официального сайта](http://anime-db.org/ru/releases/) и распакуйте архив с
 монитором в корневую папку приложения или соберите его из [исходников](https://github.com/anime-db/monitor).
 
-[Скачать монитор](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/download_monitor.jpg)
+![Скачать монитор](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/download_monitor.jpg)
 
 > Монитор ожидает что PHP установлен в директорию `bin\php\`. Если Вы установили и
 [зарегистрировали](http://www.php.net/manual/en/faq.installation.php#faq.installation.addtopath) PHP в системе, то Вам
