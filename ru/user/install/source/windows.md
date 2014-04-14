@@ -132,12 +132,12 @@ php composer.phar install --prefer-dist --no-dev
 Вам может понадобится остановить работу приложения или перезапустить его, например после его обновления. Для этого
 щелкните правой кнопкой мыши по значку приложения в трее и выберете нужный пункт в меню.
 
-![Перезапуск приложения](https://raw.github.com/anime-db/anime-db-docs/master/images/en/install/tray_restart.jpg)
+![Перезапуск приложения](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/tray_restart.jpg)
 
 Для того что бы выключить приложение, недостаточно закрыть вкладку в браузере. Если вы хотите полностью остановить
 приложение, то вам необходимо щелкнуть правой кнопкой мыши по значку в трее и выбрать соответствующий пункт меню.
 
-![Выключение приложения](https://raw.github.com/anime-db/anime-db-docs/master/images/en/install/exit.jpg)
+![Выключение приложения](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/tray_exit.jpg)
 
 <a name="stap-6"></a>
 
