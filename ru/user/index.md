@@ -9,6 +9,10 @@
     - [Сборка на OS Windows](/ru/user/install/source/windows.md "Сборка из исходников на OS Windows")
     - [Сборка на OS Linux](/ru/user/install/source/nix.md "Сборка из исходников на OS Linux")
 
+## Начало
+
+- [Начало работы](/ru/user/start.md)
+
 ## Записи
 
 - Добавление
