@@ -17,7 +17,7 @@
 Щелкаете по кнопке **Скачать** для того что бы начать загрузку самораспаковывающегося архива c последней версией
 приложения.
 
-Если вы используете браузер [Google Chrome](http://ru.wikipedia.org/wiki/Google_Chrome), то он может предупредить об
+Если Вы используете браузер [Google Chrome](http://ru.wikipedia.org/wiki/Google_Chrome), то он может предупредить об
 опасности загружаемого файла.
 
 ![Предупреждение от Google Chrome](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/warning_download.jpg)
@@ -93,7 +93,7 @@
 
 ![Перезапуск приложения](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/tray_restart.jpg)
 
-Для того что бы выключить приложение, недостаточно закрыть вкладку в браузере. Если вы хотите полностью остановить
+Для того что бы выключить приложение, недостаточно закрыть вкладку в браузере. Если Вы хотите полностью остановить
 приложение, то вам необходимо щелкнуть правой кнопкой мыши по значку в трее и выбрать соответствующий пункт меню.
 
 ![Выключение приложения](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/tray_exit.jpg)
