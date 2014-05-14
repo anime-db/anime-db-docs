@@ -34,6 +34,7 @@
 ## Общие
 
 - [Поиск](/ru/user/general/search.md "Поиск в базе данных")
+- [Метки](/ru/user/general/labels.md "Метки для записей")
 - [Уведомления](/ru/user/general/notice.md)
     - [Список уведомлений](/ru/user/general/notice_list.md)
 - [Плагины](/ru/user/general/plugins.md "Плагины и виджеты")
