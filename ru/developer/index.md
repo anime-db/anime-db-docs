@@ -6,6 +6,7 @@
 - **Наполнитель записи из источника**
     - [World-Art.ru](https://github.com/anime-db/world-art-filler-bundle)
     - [Shikimori.org наполнитель](https://github.com/anime-db/shikimori-filler-bundle)
+    - [AniDB.net наполнитель](https://github.com/anime-db/ani-db-filler-bundle)
 - **Импорт записей**
 - **Экспорт записей**
 - **Синхронизация записей**

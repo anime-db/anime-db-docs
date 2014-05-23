@@ -6,6 +6,7 @@ You can get acquainted with the existing plug-ins and on their basis to create y
 - **Filler items from source**
     - [World-Art.ru](https://github.com/anime-db/world-art-filler-bundle)
     - [Shikimori.org filler](https://github.com/anime-db/shikimori-filler-bundle)
+    - [AniDB.net filler](https://github.com/anime-db/ani-db-filler-bundle)
 - **Import items**
 - **Export items**
 - **Synchronizing items**
