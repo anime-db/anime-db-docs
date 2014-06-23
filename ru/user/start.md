@@ -18,6 +18,7 @@
 
 - [World Art](http://www.world-art.ru/)
 - [Shikimori](http://shikimori.org/)
+- [AniDB](http://anidb.net/)
 
 > Список плагинов постоянно пополняется. Следите за изменениями.
 
