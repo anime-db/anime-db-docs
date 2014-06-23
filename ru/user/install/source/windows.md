@@ -13,7 +13,7 @@
 
 Зайдите на страницу загрузки [PHP для OS Windows](http://windows.php.net/download/). Если Вы пользуетесь OS Windows XP,
 то Вы можете пользоваться только PHP версии 5.4. Более ранняя версия недопустима для работы приложения, а в более новой
-версии разработчики PHP отказались от поддержки OS Windows XP. Таким образом Вам необходимо выбрать версию PHP
+версии разработчики PHP отказались от поддержки OS Windows XP. Таким образом вам необходимо выбрать версию PHP
 интерпретатора и скачать ее:
 
 - [**PHP 5.5** VC11 x86 Non Thread Safe](http://windows.php.net/download/#php-5.5-nts-VC11-x86) *(для Vista и старше) [x86](http://ru.wikipedia.org/wiki/X86)*
@@ -99,7 +99,7 @@ php composer.phar install --prefer-dist --no-dev
 ![Скачать монитор](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/download_monitor.jpg)
 
 > Монитор ожидает что PHP установлен в директорию `bin\php\`. Если Вы установили и
-[зарегистрировали](http://www.php.net/manual/en/faq.installation.php#faq.installation.addtopath) PHP в системе, то Вам
+[зарегистрировали](http://www.php.net/manual/en/faq.installation.php#faq.installation.addtopath) PHP в системе, то вам
 необходимо отредактировать файл `config.ini`, расположенный в корневой директории приложения:
 >
 > ```ini

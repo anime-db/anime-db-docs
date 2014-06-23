@@ -19,7 +19,7 @@
     - [Shikimori.org виджет связанных записей](https://github.com/anime-db/shikimori-related-items-widget-bundle)
     - [Shikimori.org виджет похожих записей](https://github.com/anime-db/shikimori-similar-items-widget-bundle)
 
-Для того что бы разместить свой плагин в магазине приложения, Вам необходимо [сообщить
+Для того что бы разместить свой плагин в магазине приложения, вам необходимо [сообщить
 нам](https://github.com/anime-db/anime-db/issues?milestone=none&state=open) о нем добавив задачу, в которой описать свой
 плагин. Мы проверим Ваш плагин и после этого добавим в магазин что бы все пользователи приложения могли им
 пользоваться.
