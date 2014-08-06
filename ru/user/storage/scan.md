@@ -24,15 +24,15 @@
 Для того что бы выполнить сканирование необходимо перейти на страницу списка хранилищ выбрав в главном меню: *Настройки
 -> Файловые хранилища*.
 
-![Список хранилищ](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/storage/menu.jpg)
+![Список хранилищ](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/storage/menu.jpg)
 
 Щелкните по кнопке в виде лупы рядом с хранилищем для которого хотите запустить сканирование:
 
-![Сканировать хранилище](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/storage/controls.jpg)
+![Сканировать хранилище](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/storage/controls.jpg)
 
 Вы будете перенаправлены на новую страницу на которой будет выводится статус выполнения сканирование.
 
-![Список хранилищ](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/storage/scan.jpg)
+![Список хранилищ](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/storage/scan.jpg)
 
 После завершения сканирования вы будете перенаправлены на страницу со списком уведомлений сгенерированных в результате
 сканирования хранилища. Вы можете перейти на добавленные записи щелкнув на них в соответсвующий уведомлениях. Для того

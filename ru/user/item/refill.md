@@ -11,11 +11,11 @@
 может быть заполнено. При наведении мыши на значок появится выпадающее меню со списком плагинов поддерживающих
 перезаполнение этого поля.
 
-![Перезаполнение поля записи](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/item/refill_field.jpg)
+![Перезаполнение поля записи](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/item/refill_field.jpg)
 
 Процедура заполнения отдельных поле для разных плагинов мало отличается. Общий алгоритм описан на следующей схеме:
 
-![Алгоритм перезаполнения полей записи](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/item/refill_algorithm.jpg)
+![Алгоритм перезаполнения полей записи](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/item/refill_algorithm.jpg)
 
 1. Определить можно ли однозначно идентифицировать запись в источнике по имеющимся данным.
 2. Если однозначно идентифицировать нельзя то выполняется поиск записи в источнике.
@@ -31,12 +31,12 @@
 премьеры*. Будет произведен поиск записи по базе данных *World-Art* и вам будет отображено всплывающее окно со списком
 найденных совпадений.
 
-![Поиск источника заполнения](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/item/refill_popup_search.jpg)
+![Поиск источника заполнения](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/item/refill_popup_search.jpg)
 
 В данном случае найдено только одно совпадение. Выберете его что бы выполнить операцию заполнения поля и вам будет
 отображено новое всплывающее окно с заполненным полем.
 
-![Заполнение записи](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/item/refill_popup.jpg)
+![Заполнение записи](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/item/refill_popup.jpg)
 
 Нажмите кнопку *Перезаполнить* что бы установить новое значение для поля *Дата премьеры*. После этого будет
 установлено новое значение для поля и добавлена ссылка на запись во *Внешние источники*. После этого вы можете

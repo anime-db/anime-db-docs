@@ -4,7 +4,7 @@
 [списком хранилищ](/ru/user/storage/list.md) и выбрав в главном меню *Настройки -> Файловые хранилища* щелкнуть по
 ссылке перехода к форме добавления хранилища.
 
-![Список хранилищ](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/storage/menu.jpg)
+![Список хранилищ](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/storage/menu.jpg)
 
 <a name="type"></a>
 Хранилища разделяются на разные типы по своим свойствам:

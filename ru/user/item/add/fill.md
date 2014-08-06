@@ -13,7 +13,7 @@
 и вы можете перейти на страницу из главного меню. Так, для плагина **World-Art.ru** необходимо выбрать в меню:
 *Добавить запись -> Заполнение из источника -> World-Art.ru*.
 
-![Заполнение полей записи из источника](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/item/menu_add_from_fill.jpg)
+![Заполнение полей записи из источника](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/item/menu_add_from_fill.jpg)
 
 Рассмотрим на примере заполнение записи используя плагин **World-Art.ru**. На странице вы видите форму для указания
 ссылки на источника. Если вы попали на страницу со страницы поиска источника то поле источника будет уже заполнено и
@@ -21,7 +21,7 @@
 **World-Art** с записью которую вы хотите добавить и нажмите на кнопке *Заполнить*. Если вы указали недопустимую ссылку
 или плагин не может выполнить заполнение используя эту ссылку то вам будет выведено сообщение об ошибке.
 
-![Форма источника World-Art.ru](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/item/fill_from_source.jpg)
+![Форма источника World-Art.ru](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/item/fill_from_source.jpg)
 
 Форма добавления записи такая же как при [добавлении записи вручную](/ru/user/item/add/manually.md) или при
 [редактировании записи](/ru/user/item/change.md). Вы можете отредактировать или заполнить недостающие поля и нажать на

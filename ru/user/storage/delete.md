@@ -6,14 +6,14 @@
 [привязать](/ru/user/item/change.md) их к другому хранилищу. После того как вы очистите хранилище от записей вы можете
 приступить к удалению хранилища перейдя на страницу списка хранилищ через главное меню.
 
-![Список хранилищ](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/storage/menu.jpg)
+![Список хранилищ](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/storage/menu.jpg)
 
 На странице списка хранилищ найдите найдите хранилище которое хотите удалить. Если вы очистили хранилище, то в столбце
 с кнопками управления должна появится кнопка в виде крестика позволяющая удалить хранилище. Щелкните по кнопке.
 
-![Удаление хранилища](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/storage/controls.jpg)
+![Удаление хранилища](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/storage/controls.jpg)
 
 У Вас будет запрошено подтверждение для того что бы исключить случайного удаления хранилища. Нажмите *ОК* для того что
 бы подтвердить удаление.
 
-![Подтверждение удаления](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/confirm_delete.jpg)
+![Подтверждение удаления](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/confirm_delete.jpg)

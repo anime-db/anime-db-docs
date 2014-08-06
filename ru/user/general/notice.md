@@ -8,7 +8,7 @@
 Уведомления выводятся на всех страницах в верхней части страницы. Уведомления содержат текст самого уведомления,
 ссылку на переход к списку уведомлений и кнопки управления уведомлением.
 
-![Уведомления](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/general/notice.jpg)
+![Уведомления](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/general/notice.jpg)
 
 Кнопка в виде крестика закрывает текущее уведомление и отображает следующее если такое есть. Закрытые уведомления можно
 посмотреть на странице со [списком уведомлений](/ru/user/general/notice_list.md). Если вам отображается уведомление, но
@@ -20,4 +20,4 @@
 сообщение будет прокручиваться в сторону что бы показать скрытую часть. Таким же методом можно прокрутить сообщение
 обратно наведя курсор мыши на левую скрытую часть сообщения.
 
-![Прокрутка уведомления](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/general/notice_scroll.jpg)
+![Прокрутка уведомления](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/general/notice_scroll.jpg)

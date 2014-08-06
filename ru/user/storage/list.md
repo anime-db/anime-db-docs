@@ -25,17 +25,17 @@
 Список хранилищ можно посмотреть на соответствующей странице приложения выбрав в главном меню: *Настройки -> Файловые
 хранилища*.
 
-![Список хранилищ](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/storage/menu.jpg)
+![Список хранилищ](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/storage/menu.jpg)
 
 На странице есть ссылка на форму [добавления нового хранилища](/ru/user/storage/add.md) и таблица со списком всех
 созданных хранилищ. В таблице, поле *Название* содержит название хранилища со ссылкой на его
 [редактирование](/ru/user/storage/change.md) и в скобках число записей в этом хранилище со ссылкой на страницу [поиска
 записей](/ru/user/general/search.md).
 
-![Название хранилища](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/storage/name.jpg)
+![Название хранилища](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/storage/name.jpg)
 
 Последний столбец таблицы содержит список кнопок управления хранилищем. Кнопка в виде блокнота для [редактирования
 хранилища](/ru/user/storage/change.md). Кнопка в виде лупы предназн для выполнения [сканирования хранилища](/ru/user/storage/scan.md). Крест
 появляется если нет ни одной записи привязанной к хранилищу и позволяет [удалить хранилище](/ru/user/storage/delete.md).
 
-![Название хранилища](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/storage/controls.jpg)
+![Название хранилища](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/storage/controls.jpg)

@@ -11,13 +11,13 @@
 данных сайта [World-Art.ru](http://world-art.ru). Выберете в главном меню: *Добавить запись -> Поиск по названию ->
 World-Art.ru*.
 
-![Поиск источника заполнения записи](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/item/menu_add_from_search.jpg)
+![Поиск источника заполнения записи](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/item/menu_add_from_search.jpg)
 
 Вы попадете на страницу поиска источника для плагина **World-Art.ru**. На страниуе находится форма с единственным полем
 для ввода названия добавляемой записи. Введите название и нажмите на кнопке *Найти*. Будет выполнен поиск по базе
 данных и выдан список результатов.
 
-![Список результатов поиска](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/item/search_result.jpg)
+![Список результатов поиска](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/item/search_result.jpg)
 
 Результат поиска состоит из списка картинок к записям, их названия и краткого описания. Основываясь на этих данных вам
 необходимо определить запись которую вы хотели добавить и щелкнуть по ссылке в названии записи или по картинки к ней.

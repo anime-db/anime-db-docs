@@ -21,7 +21,7 @@
     Плагины этого типа появляются в меню управления записью на ее странице. Эти плагины позволяют выполнять различные
     операции непосредственно над самой записью.
 
-    ![Управление записью](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/item/menu.jpg)
+    ![Управление записью](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/item/menu.jpg)
 
 - **Плагины настроек**
 
@@ -49,11 +49,11 @@
 рядом с удаляемым плагином. Вы будете перенаправлены на страницу (обновления приложения)[/ru/user/general/update.md] и
 в процессе обновления будет удален плагин.
 
-![Удаление плагина](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/general/plugin_delete.jpg)
+![Удаление плагина](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/general/plugin_delete.jpg)
 
 Вы можете устанавливать другие плагины в магазине плагинов выбрав в главном меню *Настройки -> Плагины -> Магазин*.
 Для того что бы установить новый плагин щелкните по ссылке *Установить* рядом с устанавливаем плагином. Также как и в
 случае удаления плагина, вы будете перенаправлены на страницу обновления приложения и в процессе обновления будет
 установлен новый плагин.
 
-![Устанавить плагин](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/general/plugin_install.jpg)
+![Устанавить плагин](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/general/plugin_install.jpg)

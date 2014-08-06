@@ -10,20 +10,20 @@
 - Рыжие кружки с цифрами позволяют переходить к соответствующим страницам;
 - Рыжие кружки со стрелками позволяют перейти к следующей или предыдущей странице соответственно.
 
-![Пагинация](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/general/pager.jpg)
+![Пагинация](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/general/pager.jpg)
 
 ## Фильтрация
 
 Вы можете отфильтровать список уведомлений. Для этого откройте форму фильтрации расположенную над таблицей с
 уведомлениями.
 
-![Фильтр уведомлений](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/general/notice_filter.jpg)
+![Фильтр уведомлений](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/general/notice_filter.jpg)
 
 Вы можете ограничить список уведомлений выбрав уведомления только одного типа или уведомления у которых установлен
 определенный статус, для этого выберете нужные вам значения в форме фильтрации уведомлений и нажмите н кнопке
 фильтровать.
 
-![Форма фильтрации уведомлений](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/general/notice_filter_form.jpg)
+![Форма фильтрации уведомлений](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/general/notice_filter_form.jpg)
 
 ## Смена статуса
 
@@ -33,7 +33,7 @@
 этого на странице списка уведомлений, в конце таблицы, выберете в выпадающем списке статус который хотите установить и
 нажмите кнопку *Применить*.
 
-![Применить статус для уведомлений](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/general/notice_apply.jpg)
+![Применить статус для уведомлений](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/general/notice_apply.jpg)
 
 > Возможность смены статусов может быть полезна при выполнении сканирования хранилищ. После сканирования хранилища
 > будет создано много уведомлений. Для того что бы уведомления не появлялись в верхней части страницы вы можете

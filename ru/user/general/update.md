@@ -13,14 +13,14 @@
 выполнения обновления. **Не выключайте приложение и не открывайте другие страницы пока не закончится выполнение
 обновления приложения!** Это может привести к критической ошибке обновления которая может сломать приложение.
 
-![Обновление приложения](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/general/update.jpg)
+![Обновление приложения](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/general/update.jpg)
 
 В центре страницы вы видите ссылку *Показать журнал выполнения* которая покажет журнал в который записывается
 техническая информация о ходе выполнения обновления. Вам журнал понадобится только если вам не удалось выполнить
 обновление. Если такое произошло вам необходимо [сообщить](https://github.com/anime-db/anime-db/issues) об ошибке и
 приложить к сообщению текст журнала обновления.
 
-![Журнал выполнения обновления приложения](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/general/update_log.jpg)
+![Журнал выполнения обновления приложения](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/general/update_log.jpg)
 
 <a name="update-win-xp"></a>
 

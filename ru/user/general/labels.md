@@ -9,6 +9,6 @@
 Для того что бы изменить список меток вам необходимо перейти на страницу управления метками выбрав в главном меню
 *Настройки -> Метки*.
 
-![Список меток](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/general/labals.jpg)
+![Список меток](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/general/labals.jpg)
 
 Отредактируйте список меток и нажмите кнопку *Сохранить* что бы применить изменения.

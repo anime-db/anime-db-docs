@@ -6,7 +6,7 @@
 записи и скрытые параметры для ограничения результатов поиска. Также параметры поиска могут использоваться поиска только
 по ним, например для поиска всех комедий.
 
-![Параметры поиска](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/general/search_params.jpg)
+![Параметры поиска](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/general/search_params.jpg)
 
 > Обратите внимание на то что выводятся не все возможные параметры поиска, а только те по которым есть записи в базе
 данных.
@@ -20,14 +20,14 @@
 Параметр сортировки позволяет изменять [поле](/ru/user/item/fields.md) по которому будет сортироваться список
 результатов, а стрелки в конце списка позволяют управлять направлением сортировки.
 
-![Сортировка результата поиска](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/general/search_sort.jpg)
+![Сортировка результата поиска](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/general/search_sort.jpg)
 
 ## Число записей на странице
 
 Параметр позволяет управлять числом записей выводимых на странице. Ссылка для вывода всех записей содержит информацию
 о числе всех найденных записей.
 
-![Число записей на странице](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/general/search_limit.jpg)
+![Число записей на странице](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/general/search_limit.jpg)
 
 ## Пагинация
 
@@ -38,7 +38,7 @@
 - Рыжие кружки с цифрами позволяют переходить к соответствующим страницам;
 - Рыжие кружки со стрелками позволяют перейти к следующей или предыдущей странице соответственно.
 
-![Пагинация](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/general/pager.jpg)
+![Пагинация](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/general/pager.jpg)
 
 ## Результат поиска
 

@@ -14,7 +14,7 @@
 Если вы используете браузер [Google Chrome](http://ru.wikipedia.org/wiki/Google_Chrome), то он может предупредить об
 опасности загружаемого файла.
 
-![Предупреждение от Google Chrome](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/warning_download.jpg)
+![Предупреждение от Google Chrome](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/install/warning_download.jpg)
 
 Проигнорируйте это предупреждение и загрузите архив с приложением на компьютер.
 
@@ -30,11 +30,11 @@
 
 > [Брандмауэр Windows](http://ru.wikipedia.org/wiki/Брандмауэр_Windows) может выдать сообщение о том что приложение не
 проверено, проигнорируйте его нажав кнопку **Запустить**.
-![Предупреждение Брандмауэр Windows](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/run_archive.jpg)
+![Предупреждение Брандмауэр Windows](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/install/run_archive.jpg)
 
 Запустив приложение вы увидите окно для ввода пути к директории в которую будет распаковано приложение.
 
-![Главная страница сайта Anime DB](https://raw.github.com/anime-db/anime-db-docs/master/images/en/install/archive_choose_path.jpg)
+![Главная страница сайта Anime DB](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/en/install/archive_choose_path.jpg)
 
 По умолчанию поле будет заполнено путем расположения архива. Вы можете указать путь вручную или воспользоваться
 диалоговым окном выбора директории, щелкнув по кнопке с символом троеточие(...).
@@ -67,7 +67,7 @@
 После того как вы установили приложение, откройте директорию с ним. В корне паки будет находится монитор запуска приложения `AnimeDB.exe`. После запуска монитора, в трее(рядом с часами), появится значок приложения и
 откроется браузер на адресе <http://localhost:56780/>.
 
-![Трай](https://raw.github.com/anime-db/anime-db-docs/master/images/en/install/tray.jpg)
+![Трай](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/en/install/tray.jpg)
 
 <a name="change-port"></a>
 
@@ -85,12 +85,12 @@
 Вам может понадобится остановить работу приложения или перезапустить его, например после его обновления. Для этого
 щелкните правой кнопкой мыши по значку приложения в трее и выберете нужный пункт в меню.
 
-![Перезапуск приложения](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/tray_restart.jpg)
+![Перезапуск приложения](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/install/tray_restart.jpg)
 
 Для того что бы выключить приложение, недостаточно закрыть вкладку в браузере. Если вы хотите полностью остановить
 приложение, то вам необходимо щелкнуть правой кнопкой мыши по значку в трее и выбрать соответствующий пункт меню.
 
-![Выключение приложения](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/tray_exit.jpg)
+![Выключение приложения](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/install/tray_exit.jpg)
 
 <a name="stap-4"></a>
 

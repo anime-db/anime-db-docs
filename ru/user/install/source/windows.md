@@ -96,7 +96,7 @@ php composer.phar install --prefer-dist --no-dev
 Скачайте последнюю версию монитора с [официального сайта](http://anime-db.org/ru/releases/) и распакуйте архив с
 монитором в корневую папку приложения или соберите его из [исходников](https://github.com/anime-db/monitor).
 
-![Скачать монитор](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/download_monitor.jpg)
+![Скачать монитор](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/install/download_monitor.jpg)
 
 > Монитор ожидает что PHP установлен в директорию `bin\php\`. Если вы установили и
 [зарегистрировали](http://www.php.net/manual/en/faq.installation.php#faq.installation.addtopath) PHP в системе, то вам
@@ -114,7 +114,7 @@ php composer.phar install --prefer-dist --no-dev
 монитор запуска приложения `AnimeDB.exe`. После запуска монитора, в трее(рядом с часами), появится значок приложения и
 откроется браузер на адресе <http://localhost:56780/>.
 
-![Трай](https://raw.github.com/anime-db/anime-db-docs/master/images/en/install/tray.jpg)
+![Трай](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/en/install/tray.jpg)
 
 <a name="change-port"></a>
 
@@ -132,12 +132,12 @@ php composer.phar install --prefer-dist --no-dev
 Вам может понадобится остановить работу приложения или перезапустить его, например после его обновления. Для этого
 щелкните правой кнопкой мыши по значку приложения в трее и выберете нужный пункт в меню.
 
-![Перезапуск приложения](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/tray_restart.jpg)
+![Перезапуск приложения](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/install/tray_restart.jpg)
 
 Для того что бы выключить приложение, недостаточно закрыть вкладку в браузере. Если вы хотите полностью остановить
 приложение, то вам необходимо щелкнуть правой кнопкой мыши по значку в трее и выбрать соответствующий пункт меню.
 
-![Выключение приложения](https://raw.github.com/anime-db/anime-db-docs/master/images/ru/install/tray_exit.jpg)
+![Выключение приложения](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/install/tray_exit.jpg)
 
 <a name="stap-6"></a>
 
