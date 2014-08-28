@@ -49,9 +49,5 @@
 [названия записи](/ru/user/item/fields.md#%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B5+%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5).
 Тип и жанры записи исчесают через некоторое время при удерживая курсора мыши неподвижным над обложой записи.
 
-![Список записей](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/general/list_images.jpg)
-
 > В браузерах не поддерживающих эффект поворота, таких как [Opera](http://www.opera.com/), описание записи появляется
 при наведении курсора мыши на обложку записи.
-> 
-> ![Список записей без эффекта разворота](https://raw.githubusercontent.com/anime-db/anime-db-docs/master/images/ru/general/list_images_not_reversal.jpg)
