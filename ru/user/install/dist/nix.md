@@ -42,15 +42,16 @@ date.timezone = Europe/Moscow
 upload_tmp_dir = "tmp"
 extension_dir = "ext"
 
-extension=php_com_dotnet.dll
-extension=php_curl.dll
-extension=php_gd2.dll
-extension=php_intl.dll
-extension=php_mbstring.dll
-extension=php_openssl.dll
-extension=php_pdo_sqlite.dll
-extension=php_tidy.dll
-extension=php_fileinfo.dll
+extension = php_com_dotnet.dll
+extension = php_curl.dll
+extension = php_gd2.dll
+extension = php_intl.dll
+extension = php_mbstring.dll
+extension = php_openssl.dll
+extension = php_pdo_sqlite.dll
+extension = php_tidy.dll
+extension = php_shmop.dll
+extension = php_fileinfo.dll
 ```
 
 Эти параметры определяют список расширений которые будут подключены и основные параметры. Параметр `date.timezone`
@@ -78,7 +79,7 @@ extension=php_fileinfo.dll
 
 <a name="change-port"></a>
 
-> Если Ваш компьютер доступен в [локальной сети](http://ru.wikipedia.org/wiki/Локальная_вычислительная_сеть), то вы
+> Если ваш компьютер доступен в [локальной сети](http://ru.wikipedia.org/wiki/Локальная_вычислительная_сеть), то вы
 можете подключится к приложению с любого компьютера в сети используя [IP адрес](http://ru.wikipedia.org/wiki/IP-адрес)
 вашего компьютера в локальной сети и [порта](http://ru.wikipedia.org/wiki/Порт_%28компьютерные_сети%29)
 [56780](/ru/user/port.md). Пример: <http://192.168.0.1:56780/>. Так же вы можете изменить порт подключения
@@ -89,7 +90,7 @@ extension=php_fileinfo.dll
 > port=80
 > ```
 
-После того как вы закончили работу с приложением вы можете остановить его выполнив скрипт:
+После окончания работы с приложением вы можете остановить его выполнив скрипт:
 
 ```bash
 ./AnimeDB stop
@@ -101,8 +102,8 @@ extension=php_fileinfo.dll
 ./AnimeDB restart
 ```
 
-> Вы можете установить приложение как сервис что бы упростить работу с ним или запускать вместе с системой. Для этого
-вам необходимо отредактировать параметр `path` в файле `AnimeDB` и указать в нем абсолютный путь к приложению.
+> Что бы упростить работу с приложением или запускать его вместе с системой, можете установить приложение как сервис.
+Для этого вам следует отредактировать параметр `path` в файле `AnimeDB` и указать в нем абсолютный путь к приложению.
 > 
 > ```bash
 > path=/path/to/anime-db
@@ -130,6 +131,6 @@ extension=php_fileinfo.dll
 
 ## Шаг 3: Завершение установки
 
-В приложении есть предустановленные демонстрационные записи. Рекомендуем ознакомится с ними для того что бы иметь
+В приложении имеются предустановленные демонстрационные записи. Рекомендуем ознакомиться с ними для того что бы иметь
 общее представление о приложении. После этого вы можете удалить все демонстрационные [записи](/ru/user/item/delete.md)
 и [хранилище](/ru/user/storage/delete.md).
